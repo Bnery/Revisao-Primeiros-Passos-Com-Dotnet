@@ -1,0 +1,14 @@
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.exe
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.deps.json
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.runtimeconfig.json
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.runtimeconfig.dev.json
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.dll
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.pdb
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.AssemblyReference.cache
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfoInputs.cache
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfo.cs
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.CoreCompileInputs.cache
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.dll
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.pdb
+C:\Bootcamp Everis New Talents #2 .NET\Revisão\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.genruntimeconfig.cache
